@@ -45,7 +45,7 @@ How To Use
 We have tested it with many mainstream theme vendors like StudioPress, Bootstrap, etc. It has functioned 100% of the time. The only cases we noticed the plugin breaking is with highly modified themes.
 
 == Screenshots ==
-1. This screen shot description corresponds to `/assets/screenshot-1.png.`
+1. This screen shot description corresponds to /assets/screenshot-1.png.
 
 == Changelog ==
 
