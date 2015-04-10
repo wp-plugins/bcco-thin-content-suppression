@@ -1,5 +1,7 @@
 ﻿=== BCCO Thin Content Suppression ===
-Contributors: BCCO 
+Contributors: BCCO
+Plugin URI: https://wordpress.org/plugins/bcco-thin-content-suppression/
+Author URI: https://profiles.wordpress.org/mbbcco 
 Donate link: https://thebc.co/thin-content-suppression/
 Tags: SEO, thin content, thin content suppression, thin content penalty, search engine penalty, search engine penalty recovery
 Requires at least: 3.0

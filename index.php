@@ -5,7 +5,7 @@
  * Description: We developed the Thin Content Suppression plugin for webmasters or SEOs that needed to suppress many pages of thin content at one time. This plugin was developed to NO INDEX FOLLOW or NOINDEX NOFOLLOW all pages with less than a certain number of words on a page. We added an exemption feature for Contact pages and others that are naturally “thin”.
  * Version: 1.0.0
  * Author: BCCO
- * Author URI: https://profiles.wordpress.org/mbbcco
+ * Author URI: https://thebc.co/
  * License: GPL2
  */
 register_activation_hook( __FILE__, 'thin_content_table_install' );
