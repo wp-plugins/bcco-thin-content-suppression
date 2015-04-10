@@ -1,5 +1,5 @@
 ﻿=== BCCO Thin Content Suppression ===
-Contributors: mbbcco
+Contributors: BCCO
 Plugin URI: https://wordpress.org/plugins/bcco-thin-content-suppression/
 Author URI: https://profiles.wordpress.org/mbbcco 
 Donate link: https://thebc.co/thin-content-suppression/
