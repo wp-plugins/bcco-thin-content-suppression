@@ -30,7 +30,7 @@ How To Use
 6. Process the pages. After the plugin processes, your specified NOINDEX tag will appear in the head section of ALL pages that were less than ______ words on a page (except for the pages you purposefully excluded).
 7. Every time you fix a batch of pages and add more content, reprocess the plugin and the NOINDEX tag will fall off of the pages you have fixed.
 
-BCCO is a search marketing, design, and development company. Thank you for using our plugin. If you have any questions or comments, please contact us at support@thebc.co.
+[WordPress](https://thebc.co/ "Your favorite software")BCCO [Markdown's Syntax Documentation][markdown syntax]is a search marketing, design, and development company. Thank you for using our plugin. If you have any questions or comments, please contact us at support@thebc.co.
 
 == Installation ==
 
