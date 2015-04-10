@@ -45,7 +45,7 @@ BCCO is a search marketing, design, and development company. Thank you for using
 We have tested it with many mainstream theme vendors like StudioPress, Bootstrap, etc. It has functioned 100% of the time. The only cases we noticed the plugin breaking is with highly modified themes.
 
 == Screenshots ==
-1. This screen shot description corresponds to /assets/thin-content-suppression-screenshot.png.
+1. This screen shot description corresponds to /assets/bcco-thin-content-suppression-screenshot.png
 
 == Changelog ==
 
