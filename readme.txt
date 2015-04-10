@@ -1,5 +1,5 @@
 ﻿=== BCCO Thin Content Suppression ===
-Contributors: BCCO LLC
+Contributors: BCCO 
 Donate link: https://thebc.co/thin-content-suppression/
 Tags: SEO, thin content, thin content suppression, thin content penalty, search engine penalty, search engine penalty recovery
 Requires at least: 3.0
@@ -30,7 +30,7 @@ How To Use
 6. Process the pages. After the plugin processes, your specified NOINDEX tag will appear in the head section of ALL pages that were less than ______ words on a page (except for the pages you purposefully excluded).
 7. Every time you fix a batch of pages and add more content, reprocess the plugin and the NOINDEX tag will fall off of the pages you have fixed.
 
-Thank you for using our plugin. If you have any questions or comments, please contact us at support@thebc.co.
+BCCO is a search marketing, design, and development company. Thank you for using our plugin. If you have any questions or comments, please contact us at support@thebc.co.
 
 == Installation ==
 
