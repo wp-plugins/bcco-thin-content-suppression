@@ -1,5 +1,5 @@
 ﻿=== BCCO Thin Content Suppression ===
-Contributors: mbbcco
+Contributors: bcco
 Donate link: https://thebc.co/thin-content-suppression/
 Tags: SEO, thin content, thin content suppression, thin content penalty, search engine penalty, search engine penalty recovery
 Requires at least: 3.0
