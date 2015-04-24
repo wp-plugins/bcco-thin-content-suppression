@@ -3,7 +3,7 @@ Contributors: bcco
 Donate link: https://thebc.co/thin-content-suppression/
 Tags: SEO, thin content, thin content suppression, thin content penalty, search engine penalty, search engine penalty recovery
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
